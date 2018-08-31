@@ -1,6 +1,8 @@
-body {color:#FFFFFF;
-	background-color:#009999
+body {font-family:Arial, sans-serif;
+	color:#FFFFFF;
+	background-color:#009999;
 	}
-h1 {color:#003366;
+h1 {font-family:Arial, sans-serif;
+	color:#003366;
 	text-transform:capitalize;
 }
